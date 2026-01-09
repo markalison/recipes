@@ -1,0 +1,67 @@
+body {
+    background-color: #434570;
+    color: #cec6b9;
+    text-align: center;
+    width: 700px;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+}
+
+img {
+    width: 100%
+}
+
+div{
+    text-align: left;
+    border: solid 1px;
+    padding: 12px;
+    margin: 12px 0;
+}
+
+nav {
+    text-align: right;
+    margin-left: auto;
+}
+
+a, a.visited  {
+    color: #cec6b9;
+    list-style: none;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.ingredients ul {
+    list-style: disc;
+}
+
+li {
+    padding: 12px;
+    border: solid 1px;
+    margin: 12px;
+    text-align: center;
+}
+
+.ingredients {
+    border: 1px, solid;
+    text-align: left;
+    list-style: disc;
+}
+.ingredients li {
+    border: none;
+    text-align: left;
+    margin: 0px;
+}
+
+.directions {
+    border: solid 1px;
+    margin: 12px 0;
+}
+.directions li {
+    border: none;
+    text-align: left
+}
